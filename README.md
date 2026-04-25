@@ -2,19 +2,20 @@
 
 <!-- vibe-heatmap:start -->
 ### The AI build streak, 2026
-48 active days, 540 sessions, and about 63.9 hours of "wait, try that again" turning into shipped code.
+48 active days, 545 sessions, and about 64.2 hours of "wait, try that again" turning into shipped code.
 
-Current vibe bench: Codex 34.3%, CodeFuse Codex 28.6%, CodeFuse Claude 26.5%.
+Current vibe bench: Codex 34.3%, CodeFuse Codex 28.5%, CodeFuse Claude 26.5%.
 
-`48 active days` `540 detours survived` `63.9h of prompt-fueled shipping`
+`48 active days` `545 detours survived` `64.2h of prompt-fueled shipping`
 
 <br>
 
 ![AI coding activity heatmap](./assets/vibe-heatmap.svg)
 
-![Vibe coding tool usage mix](./assets/vibe-tools.svg)
+<p align="center">
+  <img src="./assets/vibe-tools.svg" alt="Vibe coding tool usage mix" width="49%">
+  <img src="./assets/vibe-tools-recent.svg" alt="Recent vibe coding tool usage" width="49%">
+</p>
 
-![Recent vibe coding tool usage](./assets/vibe-tools-recent.svg)
-
-_Last refreshed: 2026-04-25 23:58 HKT_
+_Last refreshed: 2026-04-26 00:20 HKT_
 <!-- vibe-heatmap:end -->

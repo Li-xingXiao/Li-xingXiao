@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="276" viewBox="0 0 880 276" role="img" aria-label="Vibe Tool Mix (2026)">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="256" viewBox="0 0 560 256" role="img" aria-label="Vibe Tool Mix (2026)">
   <defs>
     <clipPath id="vibe-tool-mix-bar">
-      <rect x="48" y="80" width="784" height="16" rx="8" ry="8" />
+      <rect x="32" y="58" width="496" height="10" rx="8" ry="8" />
     </clipPath>
   </defs>
-  <rect x="1" y="1" width="878" height="274" fill="#0d1117" stroke="#24493e" stroke-width="2" rx="8" />
-  <text x="48" y="48" fill="#5eead4" font-size="31" font-weight="700" font-family="system-ui, sans-serif">Vibe Tool Mix (2026)</text>
-  <text x="48" y="68" fill="#8b949e" font-size="13" font-family="system-ui, sans-serif">Estimated active time by detected AI coding tool</text>
-  <rect x="48" y="80" width="784" height="16" fill="#30363d" rx="8" ry="8" />
-  <rect x="48.00" y="80" width="268.99" height="16" fill="#3b82f6" clip-path="url(#vibe-tool-mix-bar)" /><rect x="316.99" y="80" width="224.22" height="16" fill="#2563eb" clip-path="url(#vibe-tool-mix-bar)" /><rect x="541.21" y="80" width="207.52" height="16" fill="#f97316" clip-path="url(#vibe-tool-mix-bar)" /><rect x="748.74" y="80" width="82.79" height="16" fill="#d97757" clip-path="url(#vibe-tool-mix-bar)" /><rect x="831.53" y="80" width="0.47" height="16" fill="#5eead4" clip-path="url(#vibe-tool-mix-bar)" />
-  <circle cx="64" cy="128" r="9" fill="#3b82f6" /><text x="88" y="134" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">Codex - 35 hrs 54 mins (34.3%)</text><circle cx="474" cy="128" r="9" fill="#2563eb" /><text x="498" y="134" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">CodeFuse Codex - 29 hrs 55 mins (28.6%)</text><circle cx="64" cy="172" r="9" fill="#f97316" /><text x="88" y="178" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">CodeFuse Claude - 27 hrs 42 mins (26.5%)</text><circle cx="474" cy="172" r="9" fill="#d97757" /><text x="498" y="178" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">Claude - 11 hrs 3 mins (10.6%)</text><circle cx="64" cy="216" r="9" fill="#5eead4" /><text x="88" y="222" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">CodeFuse - 4 mins (0.1%)</text>
+  <rect x="1" y="1" width="558" height="254" fill="#0d1117" stroke="#24493e" stroke-width="2" rx="8" />
+  <text x="32" y="34" fill="#5eead4" font-size="20" font-weight="700" font-family="system-ui, sans-serif">Vibe Tool Mix (2026)</text>
+  <text x="32" y="50" fill="#8b949e" font-size="10" font-family="system-ui, sans-serif">Estimated active time by detected AI coding tool</text>
+  <rect x="32" y="58" width="496" height="10" fill="#30363d" rx="8" ry="8" />
+  <rect x="32.00" y="58" width="170.23" height="10" fill="#3b82f6" clip-path="url(#vibe-tool-mix-bar)" /><rect x="202.23" y="58" width="141.36" height="10" fill="#2563eb" clip-path="url(#vibe-tool-mix-bar)" /><rect x="343.59" y="58" width="131.59" height="10" fill="#f97316" clip-path="url(#vibe-tool-mix-bar)" /><rect x="475.18" y="58" width="52.48" height="10" fill="#d97757" clip-path="url(#vibe-tool-mix-bar)" /><rect x="527.65" y="58" width="0.35" height="10" fill="#5eead4" clip-path="url(#vibe-tool-mix-bar)" />
+  <circle cx="42" cy="96" r="6" fill="#3b82f6" /><text x="58" y="101" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">Codex - 36 hrs 2 mins (34.3%)</text><circle cx="42" cy="124" r="6" fill="#2563eb" /><text x="58" y="129" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">CodeFuse Codex - 29 hrs 55 mins (28.5%)</text><circle cx="42" cy="152" r="6" fill="#f97316" /><text x="58" y="157" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">CodeFuse Claude - 27 hrs 51 mins (26.5%)</text><circle cx="42" cy="180" r="6" fill="#d97757" /><text x="58" y="185" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">Claude - 11 hrs 7 mins (10.6%)</text><circle cx="42" cy="208" r="6" fill="#5eead4" /><text x="58" y="213" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">CodeFuse - 4 mins (0.1%)</text>
 </svg>

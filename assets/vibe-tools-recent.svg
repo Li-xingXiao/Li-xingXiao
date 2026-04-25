@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="232" viewBox="0 0 880 232" role="img" aria-label="Vibe Tools (last 7 days)">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="228" viewBox="0 0 560 228" role="img" aria-label="Vibe Tools (last 7 days)">
   <defs>
     <clipPath id="vibe-tool-recent-bar">
-      <rect x="48" y="80" width="784" height="16" rx="8" ry="8" />
+      <rect x="32" y="58" width="496" height="10" rx="8" ry="8" />
     </clipPath>
   </defs>
-  <rect x="1" y="1" width="878" height="230" fill="#0d1117" stroke="#24493e" stroke-width="2" rx="8" />
-  <text x="48" y="48" fill="#5eead4" font-size="31" font-weight="700" font-family="system-ui, sans-serif">Vibe Tools (last 7 days)</text>
-  <text x="48" y="68" fill="#8b949e" font-size="13" font-family="system-ui, sans-serif">2026-04-19 to 2026-04-25</text>
-  <rect x="48" y="80" width="784" height="16" fill="#30363d" rx="8" ry="8" />
-  <rect x="48.00" y="80" width="475.34" height="16" fill="#f97316" clip-path="url(#vibe-tool-recent-bar)" /><rect x="523.34" y="80" width="217.48" height="16" fill="#3b82f6" clip-path="url(#vibe-tool-recent-bar)" /><rect x="740.82" y="80" width="87.81" height="16" fill="#d97757" clip-path="url(#vibe-tool-recent-bar)" /><rect x="828.63" y="80" width="3.37" height="16" fill="#5eead4" clip-path="url(#vibe-tool-recent-bar)" />
-  <circle cx="64" cy="128" r="9" fill="#f97316" /><text x="88" y="134" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">CodeFuse Claude - 9 hrs 24 mins (60.6%)</text><circle cx="474" cy="128" r="9" fill="#3b82f6" /><text x="498" y="134" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">Codex - 4 hrs 18 mins (27.7%)</text><circle cx="64" cy="172" r="9" fill="#d97757" /><text x="88" y="178" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">Claude - 1 hr 44 mins (11.2%)</text><circle cx="474" cy="172" r="9" fill="#5eead4" /><text x="498" y="178" fill="#9aa7b6" font-size="19" font-family="system-ui, sans-serif">CodeFuse - 4 mins (0.4%)</text>
+  <rect x="1" y="1" width="558" height="226" fill="#0d1117" stroke="#24493e" stroke-width="2" rx="8" />
+  <text x="32" y="34" fill="#5eead4" font-size="20" font-weight="700" font-family="system-ui, sans-serif">Vibe Tools (last 7 days)</text>
+  <text x="32" y="50" fill="#8b949e" font-size="10" font-family="system-ui, sans-serif">2026-04-20 to 2026-04-26</text>
+  <rect x="32" y="58" width="496" height="10" fill="#30363d" rx="8" ry="8" />
+  <rect x="32.00" y="58" width="297.80" height="10" fill="#f97316" clip-path="url(#vibe-tool-recent-bar)" /><rect x="329.80" y="58" width="138.88" height="10" fill="#3b82f6" clip-path="url(#vibe-tool-recent-bar)" /><rect x="468.68" y="58" width="57.24" height="10" fill="#d97757" clip-path="url(#vibe-tool-recent-bar)" /><rect x="525.92" y="58" width="2.08" height="10" fill="#5eead4" clip-path="url(#vibe-tool-recent-bar)" />
+  <circle cx="42" cy="96" r="6" fill="#f97316" /><text x="58" y="101" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">CodeFuse Claude - 9 hrs 33 mins (60.0%)</text><circle cx="42" cy="124" r="6" fill="#3b82f6" /><text x="58" y="129" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">Codex - 4 hrs 27 mins (28.0%)</text><circle cx="42" cy="152" r="6" fill="#d97757" /><text x="58" y="157" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">Claude - 1 hr 50 mins (11.5%)</text><circle cx="42" cy="180" r="6" fill="#5eead4" /><text x="58" y="185" fill="#9aa7b6" font-size="13" font-family="system-ui, sans-serif">CodeFuse - 4 mins (0.4%)</text>
 </svg>
