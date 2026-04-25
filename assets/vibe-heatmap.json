@@ -3,12 +3,102 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 2746,
-    "active_days": 44,
-    "sessions": 244,
-    "events": 875,
-    "avg_minutes_per_active_day": 62.4,
-    "max_day_minutes": 251.6
+    "active_minutes": 3834,
+    "active_days": 48,
+    "sessions": 540,
+    "events": 1986,
+    "avg_minutes_per_active_day": 79.87,
+    "max_day_minutes": 394.72
+  },
+  "tool_stats": {
+    "overall": [
+      {
+        "source": "codex",
+        "label": "Codex",
+        "color": "#3b82f6",
+        "active_minutes": 2154.37,
+        "sessions": 138,
+        "events": 625,
+        "percent": 34.31
+      },
+      {
+        "source": "codefuse-codex",
+        "label": "CodeFuse Codex",
+        "color": "#2563eb",
+        "active_minutes": 1795.48,
+        "sessions": 122,
+        "events": 514,
+        "percent": 28.6
+      },
+      {
+        "source": "codefuse-claude",
+        "label": "CodeFuse Claude",
+        "color": "#f97316",
+        "active_minutes": 1662.1,
+        "sessions": 172,
+        "events": 587,
+        "percent": 26.47
+      },
+      {
+        "source": "claude",
+        "label": "Claude",
+        "color": "#d97757",
+        "active_minutes": 662.82,
+        "sessions": 107,
+        "events": 258,
+        "percent": 10.56
+      },
+      {
+        "source": "codefuse",
+        "label": "CodeFuse",
+        "color": "#5eead4",
+        "active_minutes": 4.0,
+        "sessions": 1,
+        "events": 2,
+        "percent": 0.06
+      }
+    ],
+    "recent": [
+      {
+        "source": "codefuse-claude",
+        "label": "CodeFuse Claude",
+        "color": "#f97316",
+        "active_minutes": 563.56,
+        "sessions": 63,
+        "events": 189,
+        "percent": 60.63
+      },
+      {
+        "source": "codex",
+        "label": "Codex",
+        "color": "#3b82f6",
+        "active_minutes": 257.82,
+        "sessions": 17,
+        "events": 75,
+        "percent": 27.74
+      },
+      {
+        "source": "claude",
+        "label": "Claude",
+        "color": "#d97757",
+        "active_minutes": 104.06,
+        "sessions": 25,
+        "events": 32,
+        "percent": 11.2
+      },
+      {
+        "source": "codefuse",
+        "label": "CodeFuse",
+        "color": "#5eead4",
+        "active_minutes": 4.0,
+        "sessions": 1,
+        "events": 2,
+        "percent": 0.43
+      }
+    ],
+    "recent_days": 7,
+    "recent_start": "2026-04-19",
+    "recent_end": "2026-04-25"
   },
   "days": [
     {
@@ -224,14 +314,14 @@
     {
       "date": "2026-02-05",
       "active_minutes": 26.08,
-      "events": 15,
-      "sessions": 11
+      "events": 30,
+      "sessions": 22
     },
     {
       "date": "2026-02-06",
       "active_minutes": 23.39,
-      "events": 7,
-      "sessions": 2
+      "events": 14,
+      "sessions": 4
     },
     {
       "date": "2026-02-07",
@@ -260,8 +350,8 @@
     {
       "date": "2026-02-11",
       "active_minutes": 8.13,
-      "events": 3,
-      "sessions": 1
+      "events": 6,
+      "sessions": 2
     },
     {
       "date": "2026-02-12",
@@ -278,14 +368,14 @@
     {
       "date": "2026-02-14",
       "active_minutes": 68.3,
-      "events": 22,
-      "sessions": 2
+      "events": 44,
+      "sessions": 4
     },
     {
       "date": "2026-02-15",
       "active_minutes": 39.84,
-      "events": 11,
-      "sessions": 5
+      "events": 22,
+      "sessions": 10
     },
     {
       "date": "2026-02-16",
@@ -338,8 +428,8 @@
     {
       "date": "2026-02-24",
       "active_minutes": 7.48,
-      "events": 3,
-      "sessions": 1
+      "events": 6,
+      "sessions": 2
     },
     {
       "date": "2026-02-25",
@@ -368,20 +458,20 @@
     {
       "date": "2026-03-01",
       "active_minutes": 25.36,
-      "events": 9,
-      "sessions": 2
+      "events": 18,
+      "sessions": 4
     },
     {
       "date": "2026-03-02",
       "active_minutes": 59.75,
-      "events": 18,
-      "sessions": 7
+      "events": 36,
+      "sessions": 14
     },
     {
       "date": "2026-03-03",
       "active_minutes": 4.66,
-      "events": 2,
-      "sessions": 1
+      "events": 4,
+      "sessions": 2
     },
     {
       "date": "2026-03-04",
@@ -446,8 +536,8 @@
     {
       "date": "2026-03-14",
       "active_minutes": 20.83,
-      "events": 6,
-      "sessions": 1
+      "events": 12,
+      "sessions": 2
     },
     {
       "date": "2026-03-15",
@@ -464,68 +554,68 @@
     {
       "date": "2026-03-17",
       "active_minutes": 4.0,
-      "events": 1,
-      "sessions": 1
+      "events": 2,
+      "sessions": 2
     },
     {
       "date": "2026-03-18",
       "active_minutes": 37.45,
-      "events": 18,
-      "sessions": 3
+      "events": 36,
+      "sessions": 6
     },
     {
       "date": "2026-03-19",
       "active_minutes": 12.0,
-      "events": 3,
-      "sessions": 3
+      "events": 6,
+      "sessions": 6
     },
     {
       "date": "2026-03-20",
       "active_minutes": 17.71,
-      "events": 5,
-      "sessions": 3
+      "events": 10,
+      "sessions": 6
     },
     {
       "date": "2026-03-21",
       "active_minutes": 27.6,
-      "events": 8,
-      "sessions": 5
+      "events": 16,
+      "sessions": 10
     },
     {
       "date": "2026-03-22",
       "active_minutes": 24.82,
-      "events": 9,
-      "sessions": 6
+      "events": 18,
+      "sessions": 12
     },
     {
       "date": "2026-03-23",
       "active_minutes": 4.0,
-      "events": 1,
-      "sessions": 1
+      "events": 2,
+      "sessions": 2
     },
     {
       "date": "2026-03-24",
       "active_minutes": 56.03,
-      "events": 17,
-      "sessions": 9
+      "events": 34,
+      "sessions": 18
     },
     {
       "date": "2026-03-25",
       "active_minutes": 61.41,
-      "events": 18,
-      "sessions": 8
+      "events": 36,
+      "sessions": 16
     },
     {
       "date": "2026-03-26",
       "active_minutes": 47.37,
-      "events": 13,
-      "sessions": 7
+      "events": 26,
+      "sessions": 14
     },
     {
       "date": "2026-03-27",
       "active_minutes": 8.0,
-      "events": 2,
-      "sessions": 2
+      "events": 4,
+      "sessions": 4
     },
     {
       "date": "2026-03-28",
@@ -536,122 +626,122 @@
     {
       "date": "2026-03-29",
       "active_minutes": 65.75,
-      "events": 19,
-      "sessions": 3
+      "events": 38,
+      "sessions": 6
     },
     {
       "date": "2026-03-30",
       "active_minutes": 179.42,
-      "events": 48,
-      "sessions": 9
+      "events": 96,
+      "sessions": 18
     },
     {
       "date": "2026-03-31",
       "active_minutes": 89.23,
-      "events": 25,
-      "sessions": 6
+      "events": 50,
+      "sessions": 12
     },
     {
       "date": "2026-04-01",
       "active_minutes": 46.18,
-      "events": 13,
-      "sessions": 2
+      "events": 26,
+      "sessions": 4
     },
     {
       "date": "2026-04-02",
       "active_minutes": 149.15,
-      "events": 41,
-      "sessions": 8
+      "events": 82,
+      "sessions": 16
     },
     {
       "date": "2026-04-03",
       "active_minutes": 127.62,
-      "events": 40,
-      "sessions": 9
+      "events": 80,
+      "sessions": 18
     },
     {
       "date": "2026-04-04",
       "active_minutes": 50.5,
-      "events": 14,
-      "sessions": 7
+      "events": 28,
+      "sessions": 14
     },
     {
       "date": "2026-04-05",
       "active_minutes": 38.43,
-      "events": 10,
-      "sessions": 3
+      "events": 20,
+      "sessions": 6
     },
     {
       "date": "2026-04-06",
       "active_minutes": 33.15,
-      "events": 11,
-      "sessions": 4
+      "events": 22,
+      "sessions": 8
     },
     {
       "date": "2026-04-07",
       "active_minutes": 80.29,
-      "events": 27,
-      "sessions": 8
+      "events": 54,
+      "sessions": 16
     },
     {
       "date": "2026-04-08",
       "active_minutes": 148.47,
-      "events": 45,
-      "sessions": 7
+      "events": 90,
+      "sessions": 14
     },
     {
       "date": "2026-04-09",
       "active_minutes": 147.23,
-      "events": 46,
-      "sessions": 7
+      "events": 92,
+      "sessions": 14
     },
     {
       "date": "2026-04-10",
       "active_minutes": 99.57,
-      "events": 28,
-      "sessions": 7
+      "events": 56,
+      "sessions": 14
     },
     {
       "date": "2026-04-11",
       "active_minutes": 117.32,
-      "events": 31,
-      "sessions": 6
+      "events": 62,
+      "sessions": 12
     },
     {
       "date": "2026-04-12",
       "active_minutes": 126.83,
-      "events": 36,
-      "sessions": 4
-    },
-    {
-      "date": "2026-04-13",
-      "active_minutes": 251.6,
-      "events": 78,
+      "events": 72,
       "sessions": 8
     },
     {
+      "date": "2026-04-13",
+      "active_minutes": 315.68,
+      "events": 140,
+      "sessions": 24
+    },
+    {
       "date": "2026-04-14",
-      "active_minutes": 5.12,
-      "events": 5,
-      "sessions": 1
+      "active_minutes": 207.48,
+      "events": 92,
+      "sessions": 18
     },
     {
       "date": "2026-04-15",
-      "active_minutes": 104.18,
-      "events": 68,
-      "sessions": 23
+      "active_minutes": 394.72,
+      "events": 197,
+      "sessions": 43
     },
     {
       "date": "2026-04-16",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 14.55,
+      "events": 4,
+      "sessions": 3
     },
     {
       "date": "2026-04-17",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 14.99,
+      "events": 5,
+      "sessions": 4
     },
     {
       "date": "2026-04-18",
@@ -667,43 +757,43 @@
     },
     {
       "date": "2026-04-20",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 42.62,
+      "events": 11,
+      "sessions": 4
     },
     {
       "date": "2026-04-21",
-      "active_minutes": 8.0,
-      "events": 2,
-      "sessions": 2
+      "active_minutes": 149.55,
+      "events": 57,
+      "sessions": 22
     },
     {
       "date": "2026-04-22",
-      "active_minutes": 76.01,
-      "events": 26,
-      "sessions": 13
+      "active_minutes": 250.49,
+      "events": 101,
+      "sessions": 35
     },
     {
       "date": "2026-04-23",
-      "active_minutes": 96.13,
-      "events": 29,
-      "sessions": 9
+      "active_minutes": 127.48,
+      "events": 45,
+      "sessions": 12
     },
     {
       "date": "2026-04-24",
-      "active_minutes": 60.8,
-      "events": 23,
-      "sessions": 8
+      "active_minutes": 107.35,
+      "events": 39,
+      "sessions": 15
     },
     {
       "date": "2026-04-25",
-      "active_minutes": 60.47,
-      "events": 19,
-      "sessions": 9
+      "active_minutes": 123.45,
+      "events": 45,
+      "sessions": 18
     },
     {
       "date": "2026-04-26",
-      "active_minutes": 0.0,
+      "active_minutes": 2.01,
       "events": 0,
       "sessions": 0
     },
@@ -2202,5 +2292,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-04-25T22:59:25.101431+08:00"
+  "generated_at": "2026-04-25T23:58:31.414693+08:00"
 }
