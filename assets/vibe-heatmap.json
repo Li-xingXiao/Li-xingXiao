@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 3993,
+    "active_minutes": 4001,
     "active_days": 48,
-    "sessions": 562,
-    "events": 2049,
-    "avg_minutes_per_active_day": 83.18,
+    "sessions": 564,
+    "events": 2055,
+    "avg_minutes_per_active_day": 83.35,
     "max_day_minutes": 394.72
   },
   "tool_stats": {
@@ -16,9 +16,9 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 2186.35,
+        "active_minutes": 2190.35,
         "sessions": 141,
-        "events": 633,
+        "events": 634,
         "percent": 33.81,
         "sparkline": [
           0,
@@ -37,7 +37,7 @@
           185,
           219,
           15,
-          68,
+          69,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 1795.48,
         "sessions": 122,
         "events": 514,
-        "percent": 27.76,
+        "percent": 27.72,
         "sparkline": [
           0,
           0,
@@ -147,7 +147,7 @@
         "active_minutes": 1789.07,
         "sessions": 184,
         "events": 627,
-        "percent": 27.66,
+        "percent": 27.62,
         "sparkline": [
           0,
           0,
@@ -208,10 +208,10 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 692.17,
-        "sessions": 114,
-        "events": 273,
-        "percent": 10.7,
+        "active_minutes": 699.32,
+        "sessions": 116,
+        "events": 278,
+        "percent": 10.79,
         "sparkline": [
           0,
           0,
@@ -229,7 +229,7 @@
           3,
           73,
           13,
-          34,
+          39,
           0,
           0,
           0,
@@ -341,7 +341,7 @@
         "active_minutes": 690.53,
         "sessions": 75,
         "events": 229,
-        "percent": 61.6,
+        "percent": 60.99,
         "sparkline": [
           11,
           55,
@@ -356,10 +356,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 291.05,
+        "active_minutes": 295.05,
         "sessions": 20,
-        "events": 83,
-        "percent": 25.96,
+        "events": 84,
+        "percent": 26.06,
         "sparkline": [
           0,
           0,
@@ -367,17 +367,17 @@
           24,
           18,
           18,
-          8
+          9
         ]
       },
       {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 135.42,
-        "sessions": 32,
-        "events": 47,
-        "percent": 12.08,
+        "active_minutes": 142.57,
+        "sessions": 34,
+        "events": 52,
+        "percent": 12.59,
         "sparkline": [
           0,
           2,
@@ -385,7 +385,7 @@
           5,
           5,
           9,
-          15
+          20
         ]
       },
       {
@@ -395,7 +395,7 @@
         "active_minutes": 4.0,
         "sessions": 1,
         "events": 2,
-        "percent": 0.36,
+        "percent": 0.35,
         "sparkline": [
           0,
           0,
@@ -425,8 +425,70 @@
     "longest_session_hours": 10.6,
     "peak_hour": 21,
     "personality": "Night Owl",
-    "vibe_power": 19929
+    "vibe_power": 19939
   },
+  "badges": [
+    {
+      "id": "first_vibe",
+      "name": "First Vibe",
+      "earned": true
+    },
+    {
+      "id": "streak_3",
+      "name": "3-Day Streak",
+      "earned": true
+    },
+    {
+      "id": "streak_7",
+      "name": "Week Warrior",
+      "earned": true
+    },
+    {
+      "id": "streak_14",
+      "name": "Fortnight Force",
+      "earned": true
+    },
+    {
+      "id": "streak_30",
+      "name": "Monthly Master",
+      "earned": false
+    },
+    {
+      "id": "streak_100",
+      "name": "Century Coder",
+      "earned": false
+    },
+    {
+      "id": "active_50",
+      "name": "Fifty Days",
+      "earned": false
+    },
+    {
+      "id": "active_200",
+      "name": "200 Club",
+      "earned": false
+    },
+    {
+      "id": "marathon",
+      "name": "Marathon",
+      "earned": true
+    },
+    {
+      "id": "sessions_500",
+      "name": "500 Sessions",
+      "earned": true
+    },
+    {
+      "id": "multi_tool",
+      "name": "Multi-Tool",
+      "earned": true
+    },
+    {
+      "id": "night_owl",
+      "name": "Night Owl",
+      "earned": true
+    }
+  ],
   "days": [
     {
       "date": "2026-01-01",
@@ -1120,9 +1182,9 @@
     },
     {
       "date": "2026-04-26",
-      "active_minutes": 161.12,
-      "events": 63,
-      "sessions": 22
+      "active_minutes": 168.94,
+      "events": 69,
+      "sessions": 24
     },
     {
       "date": "2026-04-27",
@@ -2619,5 +2681,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-04-26T22:36:30.416823+08:00"
+  "generated_at": "2026-04-26T22:44:34.586196+08:00"
 }
