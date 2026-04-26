@@ -1,12 +1,13 @@
 # Li-xingXiao
 
 <!-- vibe-heatmap:start -->
-### The AI build streak, 2026
-48 active days, 548 sessions, and about 64.6 hours of "wait, try that again" turning into shipped code.
+### ⚡ Full Vibe Mode — 2026
 
-Current vibe bench: Codex 34.2%, CodeFuse Codex 28.4%, CodeFuse Claude 26.8%.
+> 48 days, 550 sessions, 64.8h — not a single line written by hand. Probably.
 
-`48 active days` `548 detours survived` `64.6h of prompt-fueled shipping`
+🧪 Vibe bench: **Codex** 34.1% · **CodeFuse Codex** 28.3% · **CodeFuse Claude** 26.8%
+
+`🔥 48 days vibing` `💬 550 prompt sessions` `⏱️ 64.8h in the zone`
 
 <br>
 
@@ -17,5 +18,6 @@ Current vibe bench: Codex 34.2%, CodeFuse Codex 28.4%, CodeFuse Claude 26.8%.
   <img src="./assets/vibe-tools-recent.svg" alt="Recent vibe coding tool usage" width="49%">
 </p>
 
-_Last refreshed: 2026-04-26 12:31 HKT_
+_Built with vibes, shipped with confidence._
+_Last refreshed: 2026-04-26 12:40 HKT_
 <!-- vibe-heatmap:end -->
