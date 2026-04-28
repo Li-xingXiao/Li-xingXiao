@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 4017,
-    "active_days": 48,
-    "sessions": 566,
-    "events": 2061,
-    "avg_minutes_per_active_day": 83.7,
+    "active_minutes": 4084,
+    "active_days": 50,
+    "sessions": 576,
+    "events": 2081,
+    "avg_minutes_per_active_day": 81.68,
     "max_day_minutes": 394.72
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 2190.35,
-        "sessions": 141,
-        "events": 634,
-        "percent": 33.72,
+        "active_minutes": 2198.35,
+        "sessions": 143,
+        "events": 636,
+        "percent": 33.48,
         "sparkline": [
           0,
           0,
@@ -37,7 +37,7 @@
           185,
           219,
           15,
-          69,
+          71,
           0,
           0,
           0,
@@ -80,10 +80,10 @@
         "source": "codefuse-claude",
         "label": "CodeFuse Claude",
         "color": "#f97316",
-        "active_minutes": 1805.29,
-        "sessions": 186,
-        "events": 632,
-        "percent": 27.8,
+        "active_minutes": 1867.85,
+        "sessions": 194,
+        "events": 650,
+        "percent": 28.45,
         "sparkline": [
           0,
           0,
@@ -101,7 +101,7 @@
           3,
           236,
           148,
-          95,
+          113,
           0,
           0,
           0,
@@ -147,7 +147,7 @@
         "active_minutes": 1795.48,
         "sessions": 122,
         "events": 514,
-        "percent": 27.64,
+        "percent": 27.35,
         "sparkline": [
           0,
           0,
@@ -211,7 +211,7 @@
         "active_minutes": 699.87,
         "sessions": 116,
         "events": 279,
-        "percent": 10.78,
+        "percent": 10.66,
         "sparkline": [
           0,
           0,
@@ -338,35 +338,35 @@
         "source": "codefuse-claude",
         "label": "CodeFuse Claude",
         "color": "#f97316",
-        "active_minutes": 664.13,
-        "sessions": 73,
-        "events": 223,
-        "percent": 60.03,
+        "active_minutes": 579.02,
+        "sessions": 61,
+        "events": 186,
+        "percent": 56.7,
         "sparkline": [
-          55,
           73,
           16,
           16,
           18,
           45,
-          0
+          13,
+          5
         ]
       },
       {
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 295.05,
-        "sessions": 20,
-        "events": 84,
-        "percent": 26.67,
+        "active_minutes": 303.05,
+        "sessions": 22,
+        "events": 86,
+        "percent": 29.68,
         "sparkline": [
-          0,
           15,
           24,
           18,
           18,
           9,
+          2,
           0
         ]
       },
@@ -374,17 +374,17 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 143.12,
-        "sessions": 34,
-        "events": 53,
-        "percent": 12.94,
+        "active_minutes": 135.12,
+        "sessions": 32,
+        "events": 51,
+        "percent": 13.23,
         "sparkline": [
-          2,
           11,
           5,
           5,
           9,
           21,
+          0,
           0
         ]
       },
@@ -395,10 +395,10 @@
         "active_minutes": 4.0,
         "sessions": 1,
         "events": 2,
-        "percent": 0.36,
+        "percent": 0.39,
         "sparkline": [
-          0,
           2,
+          0,
           0,
           0,
           0,
@@ -408,8 +408,8 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-04-21",
-    "recent_end": "2026-04-27"
+    "recent_start": "2026-04-22",
+    "recent_end": "2026-04-28"
   },
   "token_stats": {
     "total_tokens": 119766161,
@@ -425,7 +425,7 @@
     "longest_session_hours": 10.6,
     "peak_hour": 21,
     "personality": "Night Owl",
-    "vibe_power": 19953
+    "vibe_power": 20016
   },
   "badges": [
     {
@@ -461,7 +461,7 @@
     {
       "id": "active_50",
       "name": "Fifty Days",
-      "earned": false
+      "earned": true
     },
     {
       "id": "active_200",
@@ -1188,15 +1188,15 @@
     },
     {
       "date": "2026-04-27",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 52.37,
+      "events": 15,
+      "sessions": 8
     },
     {
       "date": "2026-04-28",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 14.35,
+      "events": 5,
+      "sessions": 2
     },
     {
       "date": "2026-04-29",
@@ -2681,5 +2681,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-04-27T09:00:02.227669+08:00"
+  "generated_at": "2026-04-28T09:00:02.133791+08:00"
 }
