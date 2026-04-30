@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 4223,
+    "active_minutes": 4290,
     "active_days": 51,
-    "sessions": 585,
-    "events": 2134,
-    "avg_minutes_per_active_day": 82.8,
+    "sessions": 592,
+    "events": 2156,
+    "avg_minutes_per_active_day": 84.12,
     "max_day_minutes": 394.72
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 2305.5,
-        "sessions": 147,
-        "events": 675,
-        "percent": 34.39,
+        "active_minutes": 2368.87,
+        "sessions": 152,
+        "events": 695,
+        "percent": 34.98,
         "sparkline": [
           0,
           0,
@@ -37,7 +37,7 @@
           185,
           219,
           15,
-          110,
+          130,
           0,
           0,
           0,
@@ -80,10 +80,10 @@
         "source": "codefuse-claude",
         "label": "CodeFuse Claude",
         "color": "#f97316",
-        "active_minutes": 1899.23,
-        "sessions": 199,
-        "events": 664,
-        "percent": 28.33,
+        "active_minutes": 1903.23,
+        "sessions": 201,
+        "events": 666,
+        "percent": 28.11,
         "sparkline": [
           0,
           0,
@@ -101,7 +101,7 @@
           3,
           236,
           148,
-          127,
+          129,
           0,
           0,
           0,
@@ -147,7 +147,7 @@
         "active_minutes": 1795.48,
         "sessions": 122,
         "events": 514,
-        "percent": 26.78,
+        "percent": 26.52,
         "sparkline": [
           0,
           0,
@@ -211,7 +211,7 @@
         "active_minutes": 699.87,
         "sessions": 116,
         "events": 279,
-        "percent": 10.44,
+        "percent": 10.34,
         "sparkline": [
           0,
           0,
@@ -338,17 +338,17 @@
         "source": "codefuse-claude",
         "label": "CodeFuse Claude",
         "color": "#f97316",
-        "active_minutes": 404.24,
-        "sessions": 45,
-        "events": 127,
-        "percent": 46.28,
+        "active_minutes": 355.76,
+        "sessions": 44,
+        "events": 113,
+        "percent": 45.61,
         "sparkline": [
-          16,
           16,
           18,
           45,
           13,
           19,
+          2,
           0
         ]
       },
@@ -356,33 +356,33 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 366.37,
-        "sessions": 21,
-        "events": 110,
-        "percent": 41.94,
+        "active_minutes": 341.37,
+        "sessions": 22,
+        "events": 106,
+        "percent": 43.76,
         "sparkline": [
-          24,
           18,
           18,
           9,
           2,
           38,
-          1
+          21,
+          0
         ]
       },
       {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 102.94,
-        "sessions": 24,
-        "events": 40,
-        "percent": 11.78,
+        "active_minutes": 82.94,
+        "sessions": 19,
+        "events": 35,
+        "percent": 10.63,
         "sparkline": [
-          5,
           5,
           9,
           21,
+          0,
           0,
           0,
           0
@@ -390,8 +390,8 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-04-23",
-    "recent_end": "2026-04-29"
+    "recent_start": "2026-04-24",
+    "recent_end": "2026-04-30"
   },
   "token_stats": {
     "total_tokens": 119766161,
@@ -407,7 +407,7 @@
     "longest_session_hours": 10.6,
     "peak_hour": 21,
     "personality": "Night Owl",
-    "vibe_power": 20113
+    "vibe_power": 20167
   },
   "badges": [
     {
@@ -1182,9 +1182,9 @@
     },
     {
       "date": "2026-04-29",
-      "active_minutes": 4.0,
-      "events": 1,
-      "sessions": 1
+      "active_minutes": 71.38,
+      "events": 23,
+      "sessions": 8
     },
     {
       "date": "2026-04-30",
@@ -2663,5 +2663,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-04-29T09:00:01.632523+08:00"
+  "generated_at": "2026-04-30T09:00:01.920510+08:00"
 }
