@@ -20,6 +20,6 @@
 
 <img src="./assets/vibe-badges.svg" alt="Coding Achievements" width="58%">
 
-<sub>Auto-published · Last refreshed: 2026-05-19 09:00 HKT</sub>
+<sub>Auto-published · Last refreshed: 2026-05-20 09:00 HKT</sub>
 
 <!-- vibe-heatmap:end -->
