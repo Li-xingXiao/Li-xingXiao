@@ -338,35 +338,17 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 925.63,
-        "sessions": 116,
-        "events": 312,
-        "percent": 95.82,
+        "active_minutes": 809.57,
+        "sessions": 100,
+        "events": 268,
+        "percent": 98.9,
         "sparkline": [
-          44,
           35,
           34,
           51,
           86,
           59,
-          3
-        ]
-      },
-      {
-        "source": "claude",
-        "label": "Claude",
-        "color": "#d97757",
-        "active_minutes": 31.37,
-        "sessions": 2,
-        "events": 11,
-        "percent": 3.25,
-        "sparkline": [
-          11,
-          0,
-          0,
-          0,
-          0,
-          0,
+          3,
           0
         ]
       },
@@ -377,21 +359,21 @@
         "active_minutes": 8.99,
         "sessions": 3,
         "events": 3,
-        "percent": 0.93,
+        "percent": 1.1,
         "sparkline": [
-          0,
           0,
           2,
           0,
           1,
+          0,
           0,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-07-19",
-    "recent_end": "2026-07-25"
+    "recent_start": "2026-07-20",
+    "recent_end": "2026-07-26"
   },
   "token_stats": {
     "total_tokens": 124210072,
@@ -2663,5 +2645,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-07-25T09:00:01.638752+08:00"
+  "generated_at": "2026-07-26T09:00:02.204868+08:00"
 }
