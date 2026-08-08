@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 16705,
+    "active_minutes": 16710,
     "active_days": 148,
     "sessions": 1777,
-    "events": 6315,
-    "avg_minutes_per_active_day": 112.87,
+    "events": 6318,
+    "avg_minutes_per_active_day": 112.9,
     "max_day_minutes": 394.72
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 14547.02,
+        "active_minutes": 14552.05,
         "sessions": 1289,
-        "events": 4741,
-        "percent": 75.43,
+        "events": 4744,
+        "percent": 75.44,
         "sparkline": [
           0,
           0,
@@ -52,7 +52,7 @@
           451,
           279,
           472,
-          109,
+          112,
           0,
           0,
           0,
@@ -338,9 +338,9 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 1205.27,
+        "active_minutes": 1210.3,
         "sessions": 142,
-        "events": 418,
+        "events": 421,
         "percent": 100.0,
         "sparkline": [
           50,
@@ -349,7 +349,7 @@
           72,
           58,
           39,
-          12
+          15
         ]
       }
     ],
@@ -358,11 +358,11 @@
     "recent_end": "2026-08-08"
   },
   "token_stats": {
-    "total_tokens": 124210072,
-    "total_billed": 46731090,
-    "total_input": 46276146,
-    "total_output": 454944,
-    "cache_hit_pct": 57.58
+    "total_tokens": 180291067250,
+    "total_billed": 6437607212,
+    "total_input": 6095211831,
+    "total_output": 342395381,
+    "cache_hit_pct": 96.61
   },
   "vibe_scorecard": {
     "total_messages": 23786,
@@ -371,7 +371,7 @@
     "longest_session_hours": 10.6,
     "peak_hour": 21,
     "personality": "Night Owl",
-    "vibe_power": 30498
+    "vibe_power": 18047186
   },
   "badges": [
     {
@@ -1752,8 +1752,8 @@
     },
     {
       "date": "2026-08-08",
-      "active_minutes": 29.1,
-      "events": 12,
+      "active_minutes": 34.13,
+      "events": 15,
       "sessions": 3
     },
     {
@@ -2627,5 +2627,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-08-08T10:00:57.870462+08:00"
+  "generated_at": "2026-08-08T10:17:45.894589+08:00"
 }
