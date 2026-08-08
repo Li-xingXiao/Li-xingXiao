@@ -358,10 +358,10 @@
     "recent_end": "2026-08-08"
   },
   "token_stats": {
-    "total_tokens": 180291067250,
-    "total_billed": 6437607212,
-    "total_input": 6095211831,
-    "total_output": 342395381,
+    "total_tokens": 180292840036,
+    "total_billed": 6437640734,
+    "total_input": 6095238588,
+    "total_output": 342402146,
     "cache_hit_pct": 96.61
   },
   "vibe_scorecard": {
@@ -371,7 +371,7 @@
     "longest_session_hours": 10.6,
     "peak_hour": 21,
     "personality": "Night Owl",
-    "vibe_power": 18047186
+    "vibe_power": 18047363
   },
   "badges": [
     {
@@ -2627,5 +2627,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-08-08T10:17:45.894589+08:00"
+  "generated_at": "2026-08-08T10:20:00.161680+08:00"
 }
