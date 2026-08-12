@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 16998,
-    "active_days": 150,
-    "sessions": 1816,
-    "events": 6403,
-    "avg_minutes_per_active_day": 113.32,
+    "active_minutes": 17125,
+    "active_days": 152,
+    "sessions": 1834,
+    "events": 6441,
+    "avg_minutes_per_active_day": 112.66,
     "max_day_minutes": 394.72
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 14840.68,
-        "sessions": 1328,
-        "events": 4829,
-        "percent": 75.8,
+        "active_minutes": 14967.35,
+        "sessions": 1346,
+        "events": 4867,
+        "percent": 75.96,
         "sparkline": [
           0,
           0,
@@ -52,7 +52,7 @@
           451,
           279,
           472,
-          197,
+          235,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 2167.28,
         "sessions": 240,
         "events": 750,
-        "percent": 11.07,
+        "percent": 11.0,
         "sparkline": [
           0,
           0,
@@ -147,7 +147,7 @@
         "active_minutes": 1795.48,
         "sessions": 122,
         "events": 514,
-        "percent": 9.17,
+        "percent": 9.11,
         "sparkline": [
           0,
           0,
@@ -211,7 +211,7 @@
         "active_minutes": 771.36,
         "sessions": 125,
         "events": 308,
-        "percent": 3.94,
+        "percent": 3.91,
         "sparkline": [
           0,
           0,
@@ -338,40 +338,40 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 867.08,
-        "sessions": 99,
-        "events": 269,
+        "active_minutes": 757.38,
+        "sessions": 94,
+        "events": 235,
         "percent": 100.0,
         "sparkline": [
-          72,
           58,
           39,
           31,
           32,
           37,
-          0
+          36,
+          2
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-08-05",
-    "recent_end": "2026-08-11"
+    "recent_start": "2026-08-06",
+    "recent_end": "2026-08-12"
   },
   "token_stats": {
-    "total_tokens": 209391439072,
-    "total_billed": 7254793626,
-    "total_input": 6848707808,
-    "total_output": 406085818,
-    "cache_hit_pct": 96.72
+    "total_tokens": 239331074750,
+    "total_billed": 8072494456,
+    "total_input": 7601808335,
+    "total_output": 470686121,
+    "cache_hit_pct": 96.81
   },
   "vibe_scorecard": {
     "total_messages": 23786,
     "total_tool_calls": 4030,
-    "longest_streak": 51,
+    "longest_streak": 53,
     "longest_session_hours": 10.6,
     "peak_hour": 21,
     "personality": "Night Owl",
-    "vibe_power": 20957484
+    "vibe_power": 23951565
   },
   "badges": [
     {
@@ -1770,15 +1770,15 @@
     },
     {
       "date": "2026-08-11",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 122.2,
+      "events": 36,
+      "sessions": 16
     },
     {
       "date": "2026-08-12",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 4.47,
+      "events": 2,
+      "sessions": 2
     },
     {
       "date": "2026-08-13",
@@ -2627,5 +2627,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-08-11T09:00:35.848047+08:00"
+  "generated_at": "2026-08-12T09:00:48.133391+08:00"
 }
