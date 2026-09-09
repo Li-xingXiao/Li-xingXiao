@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 21542,
-    "active_days": 179,
-    "sessions": 2732,
-    "events": 8387,
-    "avg_minutes_per_active_day": 120.35,
+    "active_minutes": 21809,
+    "active_days": 180,
+    "sessions": 2782,
+    "events": 8487,
+    "avg_minutes_per_active_day": 121.16,
     "max_day_minutes": 394.72
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 19383.18,
-        "sessions": 2243,
-        "events": 6808,
-        "percent": 80.31,
+        "active_minutes": 19622.08,
+        "sessions": 2289,
+        "events": 6897,
+        "percent": 80.38,
         "sparkline": [
           0,
           0,
@@ -56,7 +56,7 @@
           353,
           649,
           513,
-          401,
+          490,
           0,
           0,
           0,
@@ -83,7 +83,7 @@
         "active_minutes": 2167.28,
         "sessions": 240,
         "events": 750,
-        "percent": 8.98,
+        "percent": 8.88,
         "sparkline": [
           0,
           0,
@@ -147,7 +147,7 @@
         "active_minutes": 1795.48,
         "sessions": 122,
         "events": 514,
-        "percent": 7.44,
+        "percent": 7.36,
         "sparkline": [
           0,
           0,
@@ -208,10 +208,10 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 784.25,
-        "sessions": 126,
-        "events": 313,
-        "percent": 3.25,
+        "active_minutes": 822.35,
+        "sessions": 130,
+        "events": 324,
+        "percent": 3.37,
         "sparkline": [
           0,
           0,
@@ -248,7 +248,7 @@
           0,
           0,
           0,
-          5,
+          16,
           0,
           0,
           0,
@@ -338,58 +338,58 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 1110.95,
-        "sessions": 121,
-        "events": 462,
-        "percent": 98.85,
+        "active_minutes": 1207.5,
+        "sessions": 139,
+        "events": 490,
+        "percent": 95.95,
         "sparkline": [
-          61,
           44,
           41,
           67,
           85,
           158,
-          6
+          77,
+          18
         ]
       },
       {
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 12.89,
-        "sessions": 1,
-        "events": 5,
-        "percent": 1.15,
+        "active_minutes": 50.99,
+        "sessions": 5,
+        "events": 16,
+        "percent": 4.05,
         "sparkline": [
           0,
           0,
           0,
           0,
-          0,
           5,
+          11,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-09-02",
-    "recent_end": "2026-09-08"
+    "recent_start": "2026-09-03",
+    "recent_end": "2026-09-09"
   },
   "token_stats": {
-    "total_tokens": 538788412418,
-    "total_billed": 16531531964,
-    "total_input": 15402176828,
-    "total_output": 1129355136,
-    "cache_hit_pct": 97.13
+    "total_tokens": 19951207721,
+    "total_billed": 677092963,
+    "total_input": 644791805,
+    "total_output": 32301158,
+    "cache_hit_pct": 96.73
   },
   "vibe_scorecard": {
-    "total_messages": 24012,
-    "total_tool_calls": 4058,
-    "longest_streak": 80,
+    "total_messages": 24076,
+    "total_tool_calls": 4069,
+    "longest_streak": 81,
     "longest_session_hours": 10.6,
     "peak_hour": 21,
     "personality": "Night Owl",
-    "vibe_power": 53902238
+    "vibe_power": 2018813
   },
   "badges": [
     {
@@ -1956,15 +1956,15 @@
     },
     {
       "date": "2026-09-08",
-      "active_minutes": 16.32,
-      "events": 6,
-      "sessions": 0
+      "active_minutes": 233.29,
+      "events": 88,
+      "sessions": 43
     },
     {
       "date": "2026-09-09",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 49.68,
+      "events": 18,
+      "sessions": 7
     },
     {
       "date": "2026-09-10",
@@ -2645,5 +2645,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-09-08T09:01:31.243320+08:00"
+  "generated_at": "2026-09-09T09:00:10.665925+08:00"
 }
