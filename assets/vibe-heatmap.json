@@ -338,15 +338,15 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 1234.23,
-        "sessions": 89,
-        "events": 443,
-        "percent": 99.68,
+        "active_minutes": 998.02,
+        "sessions": 66,
+        "events": 349,
+        "percent": 99.6,
         "sparkline": [
-          94,
           90,
           157,
           102,
+          0,
           0,
           0,
           0
@@ -359,12 +359,12 @@
         "active_minutes": 4.0,
         "sessions": 1,
         "events": 1,
-        "percent": 0.32,
+        "percent": 0.4,
         "sparkline": [
           0,
           0,
-          0,
           1,
+          0,
           0,
           0,
           0
@@ -372,8 +372,8 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-09-23",
-    "recent_end": "2026-09-29"
+    "recent_start": "2026-09-24",
+    "recent_end": "2026-09-30"
   },
   "token_stats": {
     "total_tokens": 22040003823,
@@ -2645,5 +2645,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-09-29T09:00:14.458985+08:00"
+  "generated_at": "2026-09-30T09:00:14.008310+08:00"
 }
