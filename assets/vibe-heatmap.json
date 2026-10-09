@@ -343,12 +343,12 @@
         "events": 86,
         "percent": 93.62,
         "sparkline": [
-          0,
           41,
           13,
           13,
           18,
           1,
+          0,
           0
         ]
       },
@@ -361,10 +361,10 @@
         "events": 4,
         "percent": 6.38,
         "sparkline": [
-          0,
           3,
           0,
           1,
+          0,
           0,
           0,
           0
@@ -372,8 +372,8 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-10-02",
-    "recent_end": "2026-10-08"
+    "recent_start": "2026-10-03",
+    "recent_end": "2026-10-09"
   },
   "token_stats": {
     "total_tokens": 22134308425,
@@ -2645,5 +2645,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-10-08T09:00:10.896682+08:00"
+  "generated_at": "2026-10-09T09:00:12.781194+08:00"
 }
