@@ -338,16 +338,16 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 234.6,
-        "sessions": 34,
-        "events": 86,
-        "percent": 93.62,
+        "active_minutes": 118.73,
+        "sessions": 18,
+        "events": 45,
+        "percent": 96.74,
         "sparkline": [
-          41,
           13,
           13,
           18,
           1,
+          0,
           0,
           0
         ]
@@ -356,14 +356,14 @@
         "source": "claude",
         "label": "Claude",
         "color": "#d97757",
-        "active_minutes": 16.0,
-        "sessions": 2,
-        "events": 4,
-        "percent": 6.38,
+        "active_minutes": 4.0,
+        "sessions": 1,
+        "events": 1,
+        "percent": 3.26,
         "sparkline": [
-          3,
           0,
           1,
+          0,
           0,
           0,
           0,
@@ -372,8 +372,8 @@
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-10-03",
-    "recent_end": "2026-10-09"
+    "recent_start": "2026-10-04",
+    "recent_end": "2026-10-10"
   },
   "token_stats": {
     "total_tokens": 22134308425,
@@ -2645,5 +2645,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-10-09T09:00:12.781194+08:00"
+  "generated_at": "2026-10-10T09:00:12.820945+08:00"
 }
