@@ -3,11 +3,11 @@
   "year": 2026,
   "intensity_mode": "sessions",
   "summary": {
-    "active_minutes": 25816,
-    "active_days": 206,
-    "sessions": 3337,
-    "events": 9983,
-    "avg_minutes_per_active_day": 125.32,
+    "active_minutes": 25824,
+    "active_days": 207,
+    "sessions": 3338,
+    "events": 9985,
+    "avg_minutes_per_active_day": 124.75,
     "max_day_minutes": 449.22
   },
   "tool_stats": {
@@ -16,10 +16,10 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 23623.18,
-        "sessions": 2840,
-        "events": 8385,
-        "percent": 83.06,
+        "active_minutes": 23631.18,
+        "sessions": 2841,
+        "events": 8387,
+        "percent": 83.07,
         "sparkline": [
           0,
           0,
@@ -63,7 +63,7 @@
           88,
           0,
           16,
-          0,
+          2,
           0,
           0,
           0,
@@ -338,30 +338,30 @@
         "source": "codex",
         "label": "Codex",
         "color": "#3b82f6",
-        "active_minutes": 55.55,
-        "sessions": 7,
-        "events": 16,
+        "active_minutes": 63.55,
+        "sessions": 8,
+        "events": 18,
         "percent": 100.0,
         "sparkline": [
-          0,
           0,
           0,
           6,
           0,
           10,
+          2,
           0
         ]
       }
     ],
     "recent_days": 7,
-    "recent_start": "2026-10-16",
-    "recent_end": "2026-10-22"
+    "recent_start": "2026-10-17",
+    "recent_end": "2026-10-23"
   },
   "token_stats": {
-    "total_tokens": 22161884122,
-    "total_billed": 844651924,
-    "total_input": 803919681,
-    "total_output": 40732243,
+    "total_tokens": 22164004543,
+    "total_billed": 845037689,
+    "total_input": 804295843,
+    "total_output": 40741846,
     "cache_hit_pct": 96.34
   },
   "vibe_scorecard": {
@@ -371,7 +371,7 @@
     "longest_session_hours": 13.6,
     "peak_hour": 21,
     "personality": "Night Owl",
-    "vibe_power": 2243809
+    "vibe_power": 2244028
   },
   "badges": [
     {
@@ -2202,9 +2202,9 @@
     },
     {
       "date": "2026-10-22",
-      "active_minutes": 0.0,
-      "events": 0,
-      "sessions": 0
+      "active_minutes": 8.0,
+      "events": 2,
+      "sessions": 1
     },
     {
       "date": "2026-10-23",
@@ -2627,5 +2627,5 @@
       "sessions": 0
     }
   ],
-  "generated_at": "2026-10-22T09:00:11.347681+08:00"
+  "generated_at": "2026-10-23T09:00:12.385988+08:00"
 }
